@@ -22,3 +22,6 @@ Open ternminal with path for project that you have cloned.
 5. Run 'php artisan serve.
 
 Now start using app!
+
+
+NB: Could not get base currency because I on free trial.
